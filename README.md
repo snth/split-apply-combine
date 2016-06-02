@@ -1,4 +1,5 @@
-View the [slides on nbviewer](http://nbviewer.ipython.org/format/slides/github/snth/split-apply-combine/blob/master/The%20Split-Apply-Combine%20Pattern%20in%20Data%20Science%20and%20Python.ipynb#/)
+  * Watch the [presentation on youtube](https://youtu.be/TjuRnguO62E)
+  * View the [slides on nbviewer](http://nbviewer.ipython.org/format/slides/github/snth/split-apply-combine/blob/master/The%20Split-Apply-Combine%20Pattern%20in%20Data%20Science%20and%20Python.ipynb#/)
 
 # The Split-Apply-Combine Strategy in Data Science and Python
 
